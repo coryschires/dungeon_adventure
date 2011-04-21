@@ -1,0 +1,43 @@
+= Dungeon Adventure
+
+Dungeon Adventure is a (totally crappy text-based) role playing game built in Ruby.
+
+== How to play
+
+First, a little bit of setup:
+
+    git clone http://...    # download the project
+    cd dungeon_adventure    # go to the project's root directory
+    bundle install          # bundle the necessary gems
+    
+Then, embark on your adventure:  
+
+    ruby start.rb
+
+If all went well, you should see:
+
+http://coryschires-blog-post-images.s3.amazonaws.com/dungeon_adventure/intro-screen.png
+
+== Exploring the dark tunnels
+
+Luckily you have a map:
+
+http://coryschires-blog-post-images.s3.amazonaws.com/dungeon_adventure/map.png
+
+== What monsters await
+
+During your travels you may encounter...
+
+http://coryschires-blog-post-images.s3.amazonaws.com/dungeon_adventure/dancing-skeleton.png
+
+http://coryschires-blog-post-images.s3.amazonaws.com/dungeon_adventure/ghosts.png
+
+http://coryschires-blog-post-images.s3.amazonaws.com/dungeon_adventure/luv-dragons.png
+
+http://coryschires-blog-post-images.s3.amazonaws.com/sad-furry/ghosts.png
+
+http://coryschires-blog-post-images.s3.amazonaws.com/dungeon_adventure/slimes.png
+
+http://coryschires-blog-post-images.s3.amazonaws.com/dungeon_adventure/tv-skeleton.png
+
+http://coryschires-blog-post-images.s3.amazonaws.com/dungeon_adventure/web-wolf.png

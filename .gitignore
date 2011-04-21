@@ -1,0 +1,3 @@
+# version control will ignore these files
+*.log
+doc/
