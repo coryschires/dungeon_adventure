@@ -1,3 +1,4 @@
 # version control will ignore these files
 *.log
 doc/
+.DS_Store
