@@ -6,9 +6,9 @@ Dungeon Adventure is a (totally crappy text-based) role playing game built in Ru
 
 First, a little bit of setup:
 
-    git clone http://...    # download the project
-    cd dungeon_adventure    # go to the project's root directory
-    bundle install          # bundle the necessary gems
+    git clone git://github.com/coryschires/dungeon_adventure.git    # download the project
+    cd dungeon_adventure                                            # go to the project's root directory
+    bundle install                                                  # bundle the necessary gems
     
 Then, embark on your adventure:  
 
